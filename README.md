@@ -2,13 +2,11 @@
 
 My name is Jim Liriano. I was a once public service employee, now turned software developer with a passion for coding!
 
-I am a software engineer with 2 years of QA experience seeking my next opportunity!
+I am a software engineer with 2 years of QA experience seeking my next opportunity! If you are seeking a software engineer for your company and are considering me, I'd love to speak with you!
 
-I love to learn and I am always open to diving into something new!
-
+- 📫 How to reach me: [Jim.Liriano@gmail.com](mailto:jim.liriano@gmail.com)
 - :bulb: My techstack consists of JS, React, Node, Cypress, Postman, PHP, Jira, Confluence, Testrail and working with API's as a QA Engineer primarily.
 - :brain: I’m currently self-teaching myself Typescript!
-- 📫 How to reach me: [Jim.Liriano@gmail.com](mailto:jim.liriano@gmail.com)
 - :smile: Pronouns: he/him
 
 Check out my github repositories to see what I'm working on next!
